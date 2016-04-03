@@ -57,7 +57,7 @@ try {
 
 ## License
 
-The MIT License (MIT). Please see the [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see the [License File](LICENSE) for more information.
 
 ## Thanks
 
