@@ -1,6 +1,8 @@
 # Ionic Push Beta PHP SDK
-
 This package is a basic PHP SDK to assist with the sending of push notifications using the Ionic Push Beta API.
+
+## Installation
+`$ composer require acurrieclark/ionic-php-pusher`
 
 ## Usage
 
@@ -56,9 +58,7 @@ try {
 ```
 
 ## License
-
 The MIT License (MIT). Please see the [License File](LICENSE) for more information.
 
 ## Thanks
-
 Builds on the work for the Ionic Alpha API done by [Vladimir Dmitrovskiy](https://github.com/dmitrovskiy "Vladimir Dmitrovskiy")
