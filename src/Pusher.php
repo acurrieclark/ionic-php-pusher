@@ -88,16 +88,6 @@ class Pusher
     );
   }
 
-  /**
-  * @param $headers
-  * @param $body
-  *
-  * @return mixed|null
-  * @throws BadRequestException
-  * @throws PermissionDeniedException
-  * @throws RequestException
-  */
-
   protected function sendRequest($type, $endPoint, $headers = [], $body = [])
   {
     if (!is_string($body)) {
