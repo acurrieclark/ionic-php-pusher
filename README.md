@@ -1,4 +1,4 @@
-# Ionic Push Beta PHP SDK
+# Ionic Push Beta PHP SDK [![Build Status](https://travis-ci.org/acurrieclark/ionic-php-pusher.svg?branch=master)](https://travis-ci.org/acurrieclark/ionic-php-pusher)
 This package is a basic PHP SDK to assist with the sending of push notifications using the Ionic Push Beta API.
 
 ## Installation
